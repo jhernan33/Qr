@@ -1,0 +1,2 @@
+# Qr
+Practicas de Qr
