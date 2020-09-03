@@ -31,4 +31,4 @@ Route::get('qr', function (){
 	return view('qrCode');*/
 });
 
-Route::get('generate','generateQrController@QrGenerate');
+Route::get('generate','GenerateQrController@QrGenerate');
